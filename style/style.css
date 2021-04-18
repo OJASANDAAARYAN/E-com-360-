@@ -66,7 +66,7 @@ section {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: #404040;
 }
 
 .dropdown-content {
@@ -141,3 +141,8 @@ div.transbox p {
   font-weight: bold;
   color: #000000;
 }
+
+.class {
+  padding-left: 200px;
+  padding-right: 200px;
+}  
